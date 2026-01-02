@@ -1,4 +1,4 @@
-##  **README.md: Service Desk (Ticket Management System)**
+##  **Service Desk (Ticket Management System)**
 
 ### **Project Overview**
 
